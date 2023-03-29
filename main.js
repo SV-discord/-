@@ -1,4 +1,4 @@
-const lastnumber = 712
+const lastnumber = 마지막 사진 번호
 
 function _0x4a01(_0x5469a3, _0x28f7d9) {
     var _0x432009 = _0x4320();
